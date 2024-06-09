@@ -1,0 +1,314 @@
+,Ciutat,Biblioteca
+0,Sant Petersburg,Biblioteca Nacional Russa
+0,Budapest,Országos Széchényi Könyvtár
+0,Sant Cugat del Vallès,Arxiu Nacional de Catalunya
+1,Sant Cugat del Vallès,Arxiu Nacional de Catalunya
+2,Terrassa,Arxiu Comarcal del Vallès Occidental
+0,Augsburg,Staats- und Stadtbibliothek
+1,Berlín,Staatsbibliothek
+2,Berlín,Staatsbibliothek
+3,Berlín,Staatsbibliothek
+4,Berlín,Staatsbibliothek
+5,Bernkastel-Kues,St. Nikolaus Hospital
+6,Colònia,Historisches Archiv der Stadt Köln
+7,Darmstadt,Hessische Landesbibliothek
+8,Dresden,Sächsische Landesbibliothek
+9,Düsseldorf,Universitäts- und Landesbibliothek
+10,Erfurt,Universitätsbibliothek
+11,Erlangen,Universitätsbibliothek Erlangen-Nürnberg
+12,Freiburg i. B.,Universitätsbibliothek
+13,Gotha,Universitäts- und Forschungsbibliothek Erfurt/Gotha
+14,Gotha,Universitäts- und Forschungsbibliothek Erfurt/Gotha
+15,Göttingen,Universitätsbibliothek
+16,Halle,Universitäts- und Landesbibliothek Sachsen-Anhalt
+17,Karlsruhe,Badische Landesbibliothek
+18,Karlsruhe,Badische Landesbibliothek
+19,Kassel,Landesbibliothek
+20,Leipzig,Universitätsbibliothek
+21,Magúncia,Martinus-Bibliothek (olim Priesterseminar)
+22,Magúncia,Stadtbibliothek
+23,Munic,Bayerische Staatsbibliothek
+24,Munic,Bayerische Staatsbibliothek
+25,Munic,Bayerische Staatsbibliothek
+26,Munic,Bayerische Staatsbibliothek
+27,Munic,Universitätsbibliothek
+28,Münster,Universitäts- und Landesbibliothek
+29,Speyer,Pfälzische Landesbibliothek
+30,Stuttgart,Württembergische Landesbibliothek
+31,Stuttgart,Württembergische Landesbibliothek
+32,Trèveris,Stadtbibliothek
+33,Überlingen,Leopold-Sophien-Bibliothek
+34,Wolfenbüttel,Herzog August Bibliothek
+0,Andorra la Vella,Arxiu Nacional d'Andorra
+0,Graz,Universitätsbibliothek
+1,Innsbruck,Landesmuseum Ferdinandeum
+2,Klagenfurt,Bischöfliche Bibliothek
+3,Salzburg,St. Peter
+4,Salzburg,Universitätsbibliothek
+5,St. Georgenberg-Fiecht,Bibliothek der Benediktinerabtei
+6,Viena,Österreichische Nationalbibliothek
+7,Viena,Österreichische Nationalbibliothek
+0,Brussel·les,Bibliothèque Royale
+1,Lieja,Bibliothèque de l'Université
+2,Lovaina,Maurits Sabbebibliotheek
+0,Toronto,Thomas Fisher Rare Book Library
+0,Copenhaguen,Kongelige Bibliotek
+1,Copenhaguen,Kongelige Bibliotek
+2,Copenhaguen,Kongelige Bibliotek
+0,El Caire,Centre d'Études Orientales Chrétiennes des Franciscains
+0,Barcelona,Arxiu Capitular
+1,Barcelona,Arxiu Capitular
+2,Barcelona,Arxiu de la Corona d'Aragó
+3,Barcelona,Arxiu de la Corona d'Aragó
+4,Barcelona,Arxiu de la Corona d'Aragó
+5,Barcelona,Arxiu de la Corona d'Aragó
+6,Barcelona,Arxiu de la Corona d'Aragó
+7,Barcelona,Arxiu de la Corona d'Aragó
+8,Barcelona,Arxiu de la Corona d'Aragó
+9,Barcelona,Arxiu General de la Diputació
+10,Barcelona,Biblioteca de Catalunya
+11,Barcelona,Biblioteca de Catalunya
+12,Barcelona,Biblioteca de la Universitat de Barcelona
+13,Barcelona,Biblioteca de l'Ateneu Barcelonès
+14,Barcelona,Biblioteca Hispano-Caputxina
+15,Barcelona,Col·leccions privades
+16,Barcelona,Col·leccions privades
+17,Barcelona,Col·leccions privades
+18,Còrdova,Biblioteca Pública Provincial
+19,El Escorial,Biblioteca del Real Monasterio
+20,Girona,Arxiu Capitular
+21,Las Palmas,Seminario Conciliar
+22,Madrid,Archivo Histórico Nacional
+23,Madrid,"Biblioteca de la Universidad Complutense, Biblioteca Histórica"
+24,Madrid,Biblioteca del Palacio Real
+25,Madrid,Biblioteca Nacional de España
+26,Madrid,Real Academia de la Historia
+27,Madrid,Real Academia de la Historia
+28,Madrid,Real Academia de la Historia
+29,Montserrat,Biblioteca del Monestir
+30,Palma,Arxiu Capitular
+31,Palma,Arxiu del Regne de Mallorca
+32,Palma,Arxiu Diocesà
+33,Palma,Arxiu Municipal
+34,Palma,Arxiu Municipal
+35,Palma,Biblioteca Balear (Monestir de la Real)
+36,Palma,Biblioteca Bartolomé March
+37,Palma,Biblioteca Bartolomé March
+38,Palma,(Mss. que han quedat a Sant Francesc)
+39,Palma,Biblioteca Diocesana de Mallorca
+40,Palma,Biblioteca Diocesana de Mallorca
+41,Palma,Biblioteca Ferran Capdebou
+42,Palma,Biblioteca Pública
+43,Palma,Biblioteca Vivot
+44,Palma,Societat Arqueològica Lul·liana
+45,Palma,Societat Arqueològica Lul·liana
+46,Palma,Peralada
+47,Palma,Poblet (Vimbodí)
+48,Palma,Salamanca
+49,Palma,Santander
+50,Saragossa,Biblioteca Capitular
+51,Segovia,Archivo de la Catedral
+52,Sevilla,Arxiu ducal de Medinaceli
+53,Sevilla,Biblioteca Colombina
+54,Tarassona,Archivo de la Catedral
+55,Toledo,Biblioteca Capitular
+56,València,Biblioteca Històrica de la Universitat de València
+57,Valldemossa,Col·lecció privada
+58,Vic,Museu Episcopal
+59,Vilanova i la Geltrú,Biblioteca Museu Víctor Balaguer
+60,Vilassar de Dalt,Arxiu dels Marquesos de Santa Maria de Barberà
+0,Bethlehem (USA),Lehigh University
+1,Boston,Medical Library
+2,Cambridge (USA),Houghton Library - Harvard University
+3,Cambridge (USA),Houghton Library - Harvard University
+4,Cambridge (USA),Houghton Library - Harvard University
+5,Cincinnati,University Library
+6,Filadèlfia,University Library
+7,Hanover (USA),Dartmouth College Library
+8,New Haven,"Yale, Beinecke Rare Books and Manuscript Library"
+9,New York,Columbia University
+10,New York,Jewish Theological Seminary
+11,New York,Union Theological Seminary Library
+12,San Juan Capistrano (Califòrnia),The Library of Robert B. Honeyman
+13,San Marino (Califòrnia),Huntington Library
+14,St. Bonaventure (NY),St. Bonaventure University
+15,Washington (DC),Holy Name College Library
+0,Arràs,Bibliothèque Municipale
+1,Bordeus,Bibliothèque Municipale
+2,Bourges,Bibliothèque de la Ville
+3,Caen,Bibliothèque Municipale
+4,Carpentràs,Bibliothèque Inguimbertine
+5,Clermont-Ferrand,Bibliothèque Municipale et Interuniversitaire
+6,Colmar,Bibliothèque de la Ville
+7,Lió,Bibliothèque Municipale
+8,Marsella,Bibliothèque Municipale
+9,Montpeller,Bibliothèque de l'École de Médecine
+10,Nantes,Bibliothèque Municipale
+11,Orléans,Bibliothèque Municipale
+12,París,Bibliothèque de l'Arsenal
+13,París,Bibliothèque de Sainte-Geneviève
+14,París,Bibliothèque du château de Chantilly
+15,París,Bibliothèque Interuniversitaire de Santé - Pharmacie
+16,París,Bibliothèque Mazarine
+17,París,Bibliothèque Nationale
+18,París,Bibliothèque Nationale
+19,París,Bibliothèque Nationale
+20,París,Bibliothèque Nationale
+21,París,Bibliothèque Nationale
+22,Reims,Bibliothèque de la Ville
+23,Tolosa,Bibliothèque Publique
+24,Troyes,Bibliothèque Municipale
+0,Dublin,"Archives, University College"
+0,Bari,Biblioteca nazionale
+1,Bèrgam,Civica Biblioteca Angelo Mai
+2,Bolonya,Biblioteca Comunale
+3,Bolonya,Biblioteca Universitaria
+4,Bolonya,Biblioteca Universitaria
+5,Brescia,Biblioteca Civica Queriniana
+6,Càller,Biblioteca Universitaria
+7,Camaldoli,Monastero di Camaldoli
+8,Capestrano,Biblioteca del Convento di S. Giovanni
+9,Cortona,Biblioteca del Comune e dell'Accademia Etrusca
+10,Cremona,Biblioteca Governativa
+11,Fermo,Biblioteca Comunale
+12,Ferrara,Biblioteca Ariostea
+13,Florència,Biblioteca Medicea Laurenziana
+14,Florència,Biblioteca Medicea Laurenziana
+15,Florència,Biblioteca Medicea Laurenziana
+16,Florència,Biblioteca Nazionale Centrale
+17,Florència,Biblioteca Nazionale Centrale
+18,Florència,Biblioteca Nazionale Centrale
+19,Florència,Biblioteca Nazionale Centrale
+20,Florència,Biblioteca Nazionale Centrale
+21,Florència,Biblioteca Nazionale Centrale
+22,Florència,Biblioteca Riccardiana
+23,Foligno,Biblioteca Communale
+24,Gènova,Biblioteca Civica Berio
+25,Gènova,Biblioteca Universitaria
+26,Imperia (Itàlia),Biblioteca Civica L. Lagorio
+27,Lucca,Biblioteca Statale
+28,Milà,Biblioteca Ambrosiana
+29,Milà,Biblioteca Nazionale Braidense
+30,Mòdena,Biblioteca Estense Universitaria
+31,Mòdena,Biblioteca Estense Universitaria
+32,Mòdena,Biblioteca Estense Universitaria
+33,Nàpols,Biblioteca Nazionale
+34,Nàpols,Biblioteca Nazionale
+35,Pàdua,Biblioteca Antoniana
+36,Pàdua,Biblioteca Capitolare
+37,Pàdua,Biblioteca Civica
+38,Pàdua,Biblioteca del Seminario vescovile
+39,Pàdua,Biblioteca Universitaria
+40,Palerm,Biblioteca Centrale della Regione Siciliana
+41,Palerm,Biblioteca Comunale
+42,Parma,Biblioteca Palatina
+43,Parma,Biblioteca Palatina
+44,Parma,Biblioteca Palatina
+45,Pavia,Biblioteca Universitaria
+46,Pesaro,Biblioteca Oliveriana
+47,Pisa,Biblioteca Universitaria
+48,Poppi,Biblioteca Comunale Rilliana
+49,Pordenone,Biblioteca del Seminario Diocesano di Concordia-Pordenone
+50,Ravenna,Biblioteca Classense
+51,Reggio-Emilia,Archivio di Stato
+52,Reggio-Emilia,Biblioteca Panizzi
+53,Rímini,Biblioteca Gambalunga
+54,Roma,Archivio Generale dei Carmelitani
+55,Roma,Arxiu de la sagrada congregació de ritus
+56,Roma,Arxiu de la sagrada congregació de ritus
+57,Roma,Biblioteca Casanatense
+58,Roma,Biblioteca dell'Accademia Nazionale dei Lincei e Corsiniana
+59,Roma,Biblioteca Nazionale Centrale Vittorio Emanuele II
+60,Roma,Biblioteca Nazionale Centrale Vittorio Emanuele II
+61,Roma,Collegio di Sant'Isidoro
+62,Roma,San Candido
+63,Savignano sul Rubicone,Rubiconia Accademia dei Filopatridi
+64,Terni,Biblioteca Comunale
+65,Torí,Archivio di Stato
+66,Torí,Biblioteca Nazionale Universitaria
+67,Trento,Biblioteca Comunale
+68,Venècia,Biblioteca Nazionale Marciana
+69,Venècia,Biblioteca Nazionale Marciana
+70,Venècia,Biblioteca Nazionale Marciana
+71,Venècia,Biblioteca Nazionale Marciana
+72,Verona,Biblioteca Civica
+73,Vicenza,Biblioteca Civica Bertoliana
+0,Amsterdam,Bibliotheca Philosophica Hermetica (J.R. Ritman Library)
+1,Leiden,Bibliotheek der Universiteit
+2,Leiden,Bibliotheek der Universiteit
+3,l'Haia,Koninklijke Bibliotheek
+4,l'Haia,Koninklijke Bibliotheek
+5,Utrecht,Bibliotheek der Universiteit
+0,Cieszyn,Ksiaznica Cieszynska
+1,Cracòvia,Biblioteka Jagiellonska
+2,Gdansk,Biblioteka Polskiej Akademii Nauk
+3,Gdansk,Biblioteka Polskiej Akademii Nauk
+4,Wroclaw,Biblioteka Uniwersytecka
+0,Évora,Biblioteca Pública
+1,Lisboa,Academia das Ciências
+2,Lisboa,Biblioteca Nacional
+3,Porto,Biblioteca Pública Municipal
+4,Porto,Biblioteca Pública Municipal
+0,Bristol,City Archives
+1,Cambridge (GB),Corpus Christi College
+2,Cambridge (GB),Fitzwilliam Museum
+3,Cambridge (GB),Trinity College
+4,Cambridge (GB),Trinity College
+5,Cambridge (GB),University Library
+6,Canterbury,Christ Church
+7,Edimburg,National Library of Scotland
+8,Edimburg,University Library
+9,Glasgow,University of Glascow Library
+10,Glasgow,University of Glascow Library
+11,Glasgow,University of Glascow Library
+12,Londres,British Library
+13,Londres,British Library
+14,Londres,British Library
+15,Londres,British Library
+16,Londres,British Library
+17,Londres,British Library
+18,Londres,College of Arms
+19,Londres,Wellcome Institute for the History of Science
+20,Manchester,John Rylands Library
+21,Manchester,John Rylands Library
+22,Oxford,Bodleian Library
+23,Oxford,Bodleian Library
+24,Oxford,Bodleian Library
+25,Oxford,Bodleian Library
+26,Oxford,Bodleian Library
+27,Oxford,Bodleian Library
+28,Oxford,Bodleian Library
+29,Oxford,Bodleian Library
+30,Oxford,Bodleian Library
+31,Oxford,Bodleian Library
+32,Oxford,Bodleian Library
+33,Oxford,Bodleian Library
+34,Oxford,Corpus Christi College
+35,Oxford,Merton College
+36,Oxford,Queen's College
+37,Oxford,St. John's College
+38,Winchester,The Warden and Fellows Library
+0,Praga,Archiv Pražského hradu (olim: Knihovna Metropolitní Kapituli)
+1,Praga,Universítni Kníhovna
+0,Vaticà,Bibliotheca Apostolica Vaticana
+1,Vaticà,Bibliotheca Apostolica Vaticana
+2,Vaticà,Bibliotheca Apostolica Vaticana
+3,Vaticà,Bibliotheca Apostolica Vaticana
+4,Vaticà,Bibliotheca Apostolica Vaticana
+5,Vaticà,Bibliotheca Apostolica Vaticana
+6,Vaticà,Bibliotheca Apostolica Vaticana
+7,Vaticà,Bibliotheca Apostolica Vaticana
+8,Vaticà,Bibliotheca Apostolica Vaticana
+9,Vaticà,Bibliotheca Apostolica Vaticana
+10,Vaticà,Bibliotheca Apostolica Vaticana
+11,Vaticà,Bibliotheca Apostolica Vaticana
+0,Alep (Síria),Évêché Maronite
+0,Uppsala,Universitetsbiblioteket
+0,Basilea,Universitätsbibliothek
+1,Berna,Burgerbibliothek
+2,Cologny-Ginebra,Fondation Martin Bodmer
+3,Fribourg,Couvent des Cordeliers (Franziskanerkloster)
+4,Ginebra,Bibliothèque Publique et Universitaire
+5,Lucerna,Zentral- und Hochschulbibliothek
+6,Sankt Gallen,Kantonsbibliothek (Vadiana)
+7,Zuric,Zentralbibliothek
