@@ -2,6 +2,8 @@
 
 > Travail sur la visualisation des données des manuscrits et copies de manuscrits de l'oeuvre monumentale de Llull. 
 
+BLABLABLABLABLABLA 
+
 En effet, il y a de nombreuses références de manuscrits, éparpillés dans le monde. Frances Yates évoque la difficulté de s'y retrouver dans son livre sur Lulle et Giordano Bruno. La visualisation peut aider le chercheur à organiser, éventuellement voir l'écologie archivistique de l'oeuvre lullienne, par exemple en découvrant les différents lieux de conservation et différentes dates d'édition d'un même manuscrit.
 
 J'ai pris cette thématique car j'ai de l'affection pour l'oeuvre lullienne, sa diversité; mais aussi parce que, en clin d'oeil à la thématique du cours, Lulle fait figure de pionnier dans le travail de visualisation d'élément à valeur épistémiques (Johanna Drucker, mais informatique); mais aussi parce que le site manque de clarté. Un travail cartographique semble adapté.
